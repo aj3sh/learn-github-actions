@@ -1,0 +1,18 @@
+site_name: Learn GitHub Actions
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: indigo
+  favicon: images/github-logo.png
+  logo: images/github-logo.png
+  features:
+    - navigation.footer
+extra_css:
+  - css/custom.css
+nav:
+  - Introduction: index.md
+  - Components of GitHub Actions: components.md
+extra:
+  generator: false
