@@ -1,4 +1,5 @@
 site_name: Learn GitHub Actions
+site_dir: dist
 theme:
   name: material
   palette:
