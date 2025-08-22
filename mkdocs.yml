@@ -1,5 +1,8 @@
 site_name: Learn GitHub Actions
 site_dir: dist
+site_url: https://learngithubactions.web.app/
+repo_name: GitHub
+repo_url: https://github.com/aj3sh/learn-github-actions
 theme:
   name: material
   palette:
