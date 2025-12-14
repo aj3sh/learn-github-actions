@@ -20,3 +20,5 @@ nav:
   - Components of GitHub Actions: components.md
 extra:
   generator: false
+markdown_extensions:
+  - attr_list
